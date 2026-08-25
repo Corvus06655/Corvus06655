@@ -1,41 +1,36 @@
 # Hi, I'm Mayank Srivastava
 
-I am a **Data Analyst and B.Tech Data Science student** focused on turning raw business data into clear insights, measurable KPIs, and decision-ready dashboards.
+**Data Analyst | SQL | Python | Power BI**
 
-> **Open to Data Analyst, Business Intelligence, and Junior BI opportunities**, including internships and entry-level roles where I can apply SQL, Python, Power BI, and structured business analysis.
+I am a Data Analyst and B.Tech Data Science student. I use data to build clear reports, useful dashboards, and practical business insights.
 
-My core toolkit includes **SQL, Python, Pandas, Power BI, DAX, Power Query, Excel, MySQL, and PostgreSQL**. I work across the full analytics workflow: data cleaning, ETL, exploratory analysis, relational querying, dashboard development, data-quality validation, and business storytelling.
+I am open to **Data Analyst, Business Intelligence, and Junior BI opportunities**.
 
-My portfolio covers **retail sales, digital payments, customer churn, telecom behavior, hotel analytics, and digital commerce analytics**.
+## Skills
 
-## Portfolio at a glance
+- **Data analysis:** SQL, Python, Pandas, Excel
+- **Dashboards:** Power BI, DAX, Power Query
+- **Databases:** MySQL, PostgreSQL
+- **Core work:** Data cleaning, data modeling, KPI reporting, and business analysis
 
-| Project | Data scale | Main tools | Business focus |
-|---|---:|---|---|
-| [Walmart Sales Analysis](https://github.com/Corvus06655/walmart-sales-analysis) | 10,051 raw / 9,969 clean transactions | Python, MySQL, PostgreSQL | Retail revenue, payment behavior, branch performance, and data cleaning |
-| [PhonePe Digital Transactions Analysis](https://github.com/Corvus06655/PhonePe-Digital-Transactions-Analysis) | 300,000 transactions / 107,658 users | Power BI, DAX, Power Query | Payment reliability, service mix, user segments, and KPI monitoring |
-| [Music Store Analysis](https://github.com/Corvus06655/music-store-analysis) | 614 invoices / 4,757 invoice lines | MySQL, SQL | Customer spending, artist and genre performance, and relational analysis |
-| [Customer Churn Analysis](https://github.com/Corvus06655/customer-churn-analysis) | 7,043 telecom customers | Python, Pandas, Seaborn | Churn patterns, contract behavior, tenure, and retention opportunities |
-| [Diwali Sales Analysis](https://github.com/Corvus06655/diwali-sales-analysis) | 11,251 sales records | Python, Pandas, Seaborn | Customer demographics, regional demand, occupations, and product categories |
-| [Blinkit Sales Analysis](https://github.com/Corvus06655/blinkit-sales-analysis) | 8,523 item-outlet records | Python, Pandas, Matplotlib | Item groups, outlet characteristics, visibility, ratings, and sales |
-| [OLX Hotel Booking Analytics Dashboard](https://github.com/Corvus06655/olx-hotel-booking-analytics) | OLX-provided real-time hotel booking dataset | Power BI, DAX, Power Query | Revenue, occupancy, ADR, property performance, cancellations, no-shows, and booking-platform analysis |
+## Projects
 
-## Featured data analytics projects
+| Project | Tools | What it shows |
+|---|---|---|
+| [OLX Hotel Booking Analytics Dashboard](https://github.com/Corvus06655/olx-hotel-booking-analytics) | Power BI, DAX, Power Query | Uses an OLX-provided real-time hotel booking dataset to analyze revenue, occupancy, ADR, cancellations, no-shows, and property performance. |
+| [Walmart Sales Analysis](https://github.com/Corvus06655/walmart-sales-analysis) | Python, MySQL, PostgreSQL | Retail sales, payment behavior, branch performance, and data cleaning. |
+| [PhonePe Digital Transactions Analysis](https://github.com/Corvus06655/PhonePe-Digital-Transactions-Analysis) | Power BI, DAX, Power Query | Payment success rates, service mix, user segments, and KPI monitoring. |
+| [Music Store Analysis](https://github.com/Corvus06655/music-store-analysis) | MySQL, SQL | Customer spending, artist performance, genre performance, and advanced SQL analysis. |
+| [Customer Churn Analysis](https://github.com/Corvus06655/customer-churn-analysis) | Python, Pandas, Seaborn | Churn drivers, customer segments, contracts, and retention opportunities. |
+| [Diwali Sales Analysis](https://github.com/Corvus06655/diwali-sales-analysis) | Python, Pandas, Seaborn | Customer groups, regional demand, occupations, and product categories. |
+| [Blinkit Sales Analysis](https://github.com/Corvus06655/blinkit-sales-analysis) | Python, Pandas, Matplotlib | Product performance, outlet characteristics, ratings, and sales trends. |
 
-- [OLX Hotel Booking Analytics Dashboard](https://github.com/Corvus06655/olx-hotel-booking-analytics) — A two-page Power BI PBIP project using an OLX-provided real-time hotel booking dataset, with executive and property-operations views, DAX KPIs, semantic modeling, and a complete downloadable project archive.
+## How I work
 
-The projects above are designed as case studies rather than isolated notebooks. Each repository documents the business question, the data preparation process, the analytical method, and the resulting insight. Where possible, I include visual evidence, source-data notes, reproducibility instructions, and data-quality checks.
+I start with a business question, clean and understand the data, choose the right analysis, and present the result in a simple way. I document assumptions and try to make each project easy to review and reproduce.
 
-## What I am building next
+## Contact
 
-I am strengthening my portfolio with reproducible analytics projects, statistical analysis, forecasting, decision-focused dashboards, and lightweight automated quality checks. My next objective is to publish a small interactive demonstration that lets reviewers explore one of these analyses without opening a notebook or desktop BI file.
-
-## Connect with me
-
-- LinkedIn: Mayank Srivastava
-- GitHub: [@Corvus06655](https://github.com/Corvus06655)
-- Email: mayanksrivastava963@gmail.com
-
-## Portfolio principles
-
-I aim to document assumptions, distinguish descriptive findings from causal conclusions, cite dataset provenance, and avoid overstating what an educational or public dataset can prove. My goal is to make each project understandable to both technical reviewers and business stakeholders.
+- **LinkedIn:** [View my LinkedIn profile](https://www.linkedin.com/in/mayank-srivastava-076020215)
+- **GitHub:** [@Corvus06655](https://github.com/Corvus06655)
+- **Email:** mayanksrivastava963@gmail.com
