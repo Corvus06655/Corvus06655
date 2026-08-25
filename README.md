@@ -17,12 +17,12 @@ I am open to **Data Analyst, Business Intelligence, and Junior BI opportunities*
 
 | Project | Tools | What it shows |
 |---|---|---|
-| [OLX Hotel Booking Analytics Dashboard](https://github.com/Corvus06655/olx-hotel-booking-analytics) | Power BI, DAX, Power Query | Uses an OLX-provided real-time hotel booking dataset to analyze revenue, occupancy, ADR, cancellations, no-shows, and property performance. |
-| [Walmart Sales Analysis](https://github.com/Corvus06655/walmart-sales-analysis) | Python, MySQL, PostgreSQL | Retail sales, payment behavior, branch performance, and data cleaning. |
-| [PhonePe Digital Transactions Analysis](https://github.com/Corvus06655/PhonePe-Digital-Transactions-Analysis) | Power BI, DAX, Power Query | Payment success rates, service mix, user segments, and KPI monitoring. |
-| [Music Store Analysis](https://github.com/Corvus06655/music-store-analysis) | MySQL, SQL | Customer spending, artist performance, genre performance, and advanced SQL analysis. |
-| [Customer Churn Analysis](https://github.com/Corvus06655/customer-churn-analysis) | Python, Pandas, Seaborn | Churn drivers, customer segments, contracts, and retention opportunities. |
-| [Diwali Sales Analysis](https://github.com/Corvus06655/diwali-sales-analysis) | Python, Pandas, Seaborn | Customer groups, regional demand, occupations, and product categories. |
+| [Hotel Revenue & Operations Intelligence](https://github.com/Corvus06655/hotel-revenue-operations-intelligence) | Power BI, DAX, Power Query | Hotel revenue, occupancy, booking-status, property, room-class, and operational KPI analysis. |
+| [Retail Sales & Branch Performance Analytics](https://github.com/Corvus06655/retail-sales-branch-performance) | Python, MySQL, PostgreSQL | Retail sales, payment behavior, category profitability, branch performance, and operating trends. |
+| [Digital Payment Reliability & Transaction Performance Analytics](https://github.com/Corvus06655/digital-payment-reliability-analytics) | Power BI, DAX, Power Query | Payment reliability, transaction performance, service mix, user activity, and growth KPIs. |
+| [Music Store Revenue & Customer Intelligence](https://github.com/Corvus06655/music-store-revenue-customer-intelligence) | MySQL, SQL | Customer value, country sales, genre demand, artist performance, and advanced SQL analysis. |
+| [Telecom Customer Retention & Churn Analytics](https://github.com/Corvus06655/telecom-customer-retention-analytics) | Python, Pandas, Seaborn | Observed churn by contract, tenure, service, payment method, and customer segment. |
+| [Retail Customer & Revenue Intelligence](https://github.com/Corvus06655/retail-customer-revenue-intelligence) | Python, Pandas, Seaborn | Seasonal customer segments, regional demand, order volume, and category revenue. |
 | [Blinkit Sales Analysis](https://github.com/Corvus06655/blinkit-sales-analysis) | Python, Pandas, Matplotlib | Product performance, outlet characteristics, ratings, and sales trends. |
 
 ## How I work
