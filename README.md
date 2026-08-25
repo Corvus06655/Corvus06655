@@ -6,7 +6,7 @@ I am a **Data Analyst and B.Tech Data Science student** focused on turning raw b
 
 My core toolkit includes **SQL, Python, Pandas, Power BI, DAX, Power Query, Excel, MySQL, and PostgreSQL**. I work across the full analytics workflow: data cleaning, ETL, exploratory analysis, relational querying, dashboard development, data-quality validation, and business storytelling.
 
-My portfolio covers **retail sales, digital payments, customer churn, telecom behavior, and digital commerce analytics**.
+My portfolio covers **retail sales, digital payments, customer churn, telecom behavior, hotel analytics, and digital commerce analytics**.
 
 ## Portfolio at a glance
 
@@ -18,8 +18,11 @@ My portfolio covers **retail sales, digital payments, customer churn, telecom be
 | [Customer Churn Analysis](https://github.com/Corvus06655/customer-churn-analysis) | 7,043 telecom customers | Python, Pandas, Seaborn | Churn patterns, contract behavior, tenure, and retention opportunities |
 | [Diwali Sales Analysis](https://github.com/Corvus06655/diwali-sales-analysis) | 11,251 sales records | Python, Pandas, Seaborn | Customer demographics, regional demand, occupations, and product categories |
 | [Blinkit Sales Analysis](https://github.com/Corvus06655/blinkit-sales-analysis) | 8,523 item-outlet records | Python, Pandas, Matplotlib | Item groups, outlet characteristics, visibility, ratings, and sales |
+| [OLX Hotel Booking Analytics Dashboard](https://github.com/Corvus06655/olx-hotel-booking-analytics) | OLX-provided real-time hotel booking dataset | Power BI, DAX, Power Query | Revenue, occupancy, ADR, property performance, cancellations, no-shows, and booking-platform analysis |
 
 ## Featured data analytics projects
+
+- [OLX Hotel Booking Analytics Dashboard](https://github.com/Corvus06655/olx-hotel-booking-analytics) — A two-page Power BI PBIP project using an OLX-provided real-time hotel booking dataset, with executive and property-operations views, DAX KPIs, semantic modeling, and a complete downloadable project archive.
 
 The projects above are designed as case studies rather than isolated notebooks. Each repository documents the business question, the data preparation process, the analytical method, and the resulting insight. Where possible, I include visual evidence, source-data notes, reproducibility instructions, and data-quality checks.
 
@@ -29,7 +32,7 @@ I am strengthening my portfolio with reproducible analytics projects, statistica
 
 ## Connect with me
 
-- LinkedIn: [Mayank Srivastava](https://linkedin.com/in/mayank-srivastava-076020215)
+- LinkedIn: Mayank Srivastava
 - GitHub: [@Corvus06655](https://github.com/Corvus06655)
 - Email: mayanksrivastava963@gmail.com
 
