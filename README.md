@@ -17,6 +17,7 @@ I am open to **Data Analyst, Business Intelligence, and Junior BI opportunities*
 
 | Project | Tools | What it shows |
 |---|---|---|
+| [Gift Commerce Intelligence](https://github.com/Corvus06655/gift-commerce-intelligence) | Python, Pandas, Excel, Power BI | Revenue, Customer & Fulfillment Analytics, including sales trends, customer spending, product performance, occasion analysis, city orders, and delivery-time insights. |
 | [Bank Marketing Campaign Analytics](https://github.com/Corvus06655/bank-marketing-campaign-analytics) | Python, PostgreSQL, Jupyter, SQL | Bank campaign conversion, customer segmentation, contact-channel performance, and term-deposit subscription analysis. |
 | [Hotel Revenue & Operations Intelligence](https://github.com/Corvus06655/hotel-revenue-operations-intelligence) | Power BI, DAX, Power Query | Hotel revenue, occupancy, booking-status, property, room-class, and operational KPI analysis. |
 | [Retail Sales & Branch Performance Analytics](https://github.com/Corvus06655/retail-sales-branch-performance) | Python, MySQL, PostgreSQL | Retail sales, payment behavior, category profitability, branch performance, and operating trends. |
