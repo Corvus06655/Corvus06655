@@ -17,6 +17,7 @@ I am open to **Data Analyst, Business Intelligence, and Junior BI opportunities*
 
 | Project | Tools | What it shows |
 |---|---|---|
+| [Inventory & Vendor Intelligence](https://github.com/Corvus06655/inventory-ml-engineering) | Python, SQL, Pandas, scikit-learn, Streamlit | Freight cost prediction and invoice exception flagging from inventory and vendor data, with model comparison and an interactive Streamlit app. |
 | [Bank Marketing Campaign Analytics](https://github.com/Corvus06655/bank-marketing-campaign-analytics) | Python, PostgreSQL, Jupyter, SQL | Bank campaign conversion, customer segmentation, contact-channel performance, and term-deposit subscription analysis. |
 | [Digital Payment Reliability & Transaction Performance Analytics](https://github.com/Corvus06655/digital-payment-reliability-analytics) | Power BI, DAX, Power Query | Payment reliability, transaction performance, service mix, user activity, and growth KPIs. |
 | [Hotel Revenue & Operations Intelligence](https://github.com/Corvus06655/hotel-revenue-operations-intelligence) | Power BI, DAX, Power Query | Hotel revenue, occupancy, booking-status, property, room-class, and operational KPI analysis. |
@@ -33,6 +34,6 @@ I start with a business question, clean and understand the data, choose the righ
 
 ## Contact
 
-- **LinkedIn:** [View my LinkedIn profile](https://www.linkedin.com/in/mayank-srivastava-076020215)
-- **GitHub:** [@Corvus06655](https://github.com/Corvus06655)
-- **Email:** mayanksrivastava963@gmail.com
+- LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/in/mayank-srivastava-076020215)
+- GitHub: [@Corvus06655](https://github.com/Corvus06655)
+- Email: mayanksrivastava963@gmail.com
