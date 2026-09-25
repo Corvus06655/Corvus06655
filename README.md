@@ -1,39 +1,71 @@
-# Hi, I'm Mayank Srivastava
+<div align="center">
 
-**Data Analyst | SQL | Python | Power BI**
+# Mayank Srivastava
 
-I am a Data Analyst and B.Tech Data Science student. I use data to build clear reports, useful dashboards, and practical business insights.
+### Data & AI Analyst · SQL · Python · Power BI · Machine Learning
 
-I am open to **Data Analyst, Business Intelligence, and Junior BI opportunities**.
+**B.Tech Data Science undergraduate at AKTU · Expected 2027 · Greater Noida, India**
 
-## Skills
+[LinkedIn](https://www.linkedin.com/in/mayank-srivastava-076020215) · [Email](mailto:mayanksrivastava963@gmail.com)
 
-- **Data analysis:** SQL, Python, Pandas, Excel
-- **Dashboards:** Power BI, DAX, Power Query
-- **Databases:** MySQL, PostgreSQL
-- **Core work:** Data cleaning, data modeling, KPI reporting, and business analysis
+</div>
 
-## Projects
+---
 
-| Project | Tools | What it shows |
-|---|---|---|
-| [Inventory & Vendor Intelligence](https://github.com/Corvus06655/inventory-ml-engineering) | Python, SQL, Pandas, scikit-learn, Streamlit | Freight cost prediction and invoice exception flagging from inventory and vendor data, with model comparison and an interactive Streamlit app. |
-| [Bank Marketing Campaign Analytics](https://github.com/Corvus06655/bank-marketing-campaign-analytics) | Python, PostgreSQL, Jupyter, SQL | Bank campaign conversion, customer segmentation, contact-channel performance, and term-deposit subscription analysis. |
-| [Digital Payment Reliability & Transaction Performance Analytics](https://github.com/Corvus06655/digital-payment-reliability-analytics) | Power BI, DAX, Power Query | Payment reliability, transaction performance, service mix, user activity, and growth KPIs. |
-| [Hotel Revenue & Operations Intelligence](https://github.com/Corvus06655/hotel-revenue-operations-intelligence) | Power BI, DAX, Power Query | Hotel revenue, occupancy, booking-status, property, room-class, and operational KPI analysis. |
-| [Gift Commerce Intelligence](https://github.com/Corvus06655/gift-commerce-intelligence) | Excel, Power Query | Revenue, Customer & Fulfillment Analytics, including sales trends, customer spending, product performance, occasion analysis, city orders, and delivery-time insights. |
-| [Retail Sales & Branch Performance Analytics](https://github.com/Corvus06655/retail-sales-branch-performance) | Python, MySQL, PostgreSQL | Retail sales, payment behavior, category profitability, branch performance, and operating trends. |
-| [Telecom Customer Retention & Churn Analytics](https://github.com/Corvus06655/telecom-customer-retention-analytics) | Python, Pandas, Seaborn | Observed churn by contract, tenure, service, payment method, and customer segment. |
-| [Music Store Revenue & Customer Intelligence](https://github.com/Corvus06655/music-store-revenue-customer-intelligence) | MySQL, SQL | Customer value, country sales, genre demand, artist performance, and advanced SQL analysis. |
-| [Retail Customer & Revenue Intelligence](https://github.com/Corvus06655/retail-customer-revenue-intelligence) | Python, Pandas, Seaborn | Seasonal customer segments, regional demand, order volume, and category revenue. |
-| [Blinkit Sales Analysis](https://github.com/Corvus06655/blinkit-sales-analysis) | Python, Pandas, Matplotlib | Product performance, outlet characteristics, ratings, and sales trends. |
+## About me
 
-## How I work
+I turn messy business data into **reliable analysis, decision-ready dashboards, and practical recommendations**. My work spans data cleaning and ETL, exploratory analysis, SQL analytics, Power BI modeling, KPI reporting, and applied machine learning.
 
-I start with a business question, clean and understand the data, choose the right analysis, and present the result in a simple way. I document assumptions and try to make each project easy to review and reproduce.
+During my Data Analytics Internship at **Skillfied Mentor**, I cleaned and standardized **5,000+ records**, automated **8+ KPI dashboards and reports**, and helped reduce data errors by approximately **30%** while shortening reporting turnaround by approximately **40%**.
 
-## Contact
+I am open to **Data Analyst, Business Intelligence, and Junior Data/AI Analyst opportunities**.
 
-- LinkedIn: [View my LinkedIn profile](https://www.linkedin.com/in/mayank-srivastava-076020215)
-- GitHub: [@Corvus06655](https://github.com/Corvus06655)
-- Email: mayanksrivastava963@gmail.com
+## What I work with
+
+| Area | Tools and capabilities |
+| --- | --- |
+| **Programming & analysis** | Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, EDA, data cleaning, ETL |
+| **Business intelligence** | Power BI, DAX, Power Query, Advanced Excel, data modeling, dashboard development, KPI analysis |
+| **Machine learning** | scikit-learn, regression, feature engineering, model evaluation, anomaly detection |
+| **Databases & workflow** | PostgreSQL, MySQL, Git, GitHub, Jupyter Notebook, VS Code |
+| **Generative AI** | AI-assisted coding, debugging, analysis, and validation of AI-generated outputs |
+
+## Featured projects
+
+### Analytics and BI
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [Bank Marketing Campaign Analytics](https://github.com/Corvus06655/bank-marketing-campaign-analytics) | Customer segmentation, campaign-response analysis, contact-channel performance, and targeting recommendations from 41,188 records. | Python · PostgreSQL · SQL · Jupyter |
+| [Digital Payment Reliability Analytics](https://github.com/Corvus06655/digital-payment-reliability-analytics) | Transaction health, service mix, user activity, growth KPIs, and payment-performance monitoring across 300,000 transactions. | Power BI · DAX · Power Query |
+| [Hotel Revenue & Operations Intelligence](https://github.com/Corvus06655/hotel-revenue-operations-intelligence) | Revenue, bookings, occupancy, RevPAR, ADR, cancellations, no-shows, and guest-rating analysis across properties. | Power BI · DAX · Power Query |
+
+### Predictive analytics
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [Inventory & Vendor Intelligence](https://github.com/Corvus06655/inventory-ml-engineering) | Freight-cost drivers, purchase and invoice patterns, predictive modeling, and exception screening for vendor operations. | Python · SQL · Pandas · scikit-learn |
+
+More portfolio work: [retail](https://github.com/Corvus06655/retail-sales-branch-performance), [telecom churn](https://github.com/Corvus06655/telecom-customer-retention-analytics), [music-store SQL](https://github.com/Corvus06655/music-store-revenue-customer-intelligence), and [customer revenue intelligence](https://github.com/Corvus06655/retail-customer-revenue-intelligence).
+
+## Certifications and education
+
+- **B.Tech in Data Science**, A.P.J. Abdul Kalam Technical University — expected June 2027 · CGPA 7.61
+- **Machine Learning Using Python, Power BI, Data Analytics** — Simplilearn SkillUp
+- **SQL (Advanced, Intermediate & Basic)** — HackerRank
+- **24-Hour Coding Club, KCC Institute** — Voyager Coding Club
+
+## How I approach analytics
+
+1. Start with the business question and define the decision the analysis should support.
+2. Clean, validate, and document the data before interpreting patterns.
+3. Select the right analytical method, with attention to leakage, assumptions, and reproducibility.
+4. Communicate findings through focused KPIs, clear visuals, and actionable recommendations.
+
+---
+
+<div align="center">
+
+**Let's connect** · [LinkedIn](https://www.linkedin.com/in/mayank-srivastava-076020215) · [mayanksrivastava963@gmail.com](mailto:mayanksrivastava963@gmail.com)
+
+</div>
