@@ -45,6 +45,7 @@ I am open to **Data Analyst, Business Intelligence, and Junior Data/AI Analyst o
 | Project | Focus | Stack |
 | --- | --- | --- |
 | [Inventory & Vendor Intelligence](https://github.com/Corvus06655/inventory-ml-engineering) | Freight-cost drivers, purchase and invoice patterns, predictive modeling, and exception screening for vendor operations. | Python · SQL · Pandas · scikit-learn |
+| [Telecom Customer Retention & Churn Analytics](https://github.com/Corvus06655/telecom-customer-retention-analytics) | Exploratory churn segmentation plus Logistic Regression, Decision Tree, Random Forest, and KNN classification, evaluated with accuracy, precision, recall, and F1. | Python · Pandas · scikit-learn · Jupyter |
 
 More portfolio work: [retail](https://github.com/Corvus06655/retail-sales-branch-performance), [telecom churn](https://github.com/Corvus06655/telecom-customer-retention-analytics), [music-store SQL](https://github.com/Corvus06655/music-store-revenue-customer-intelligence), and [customer revenue intelligence](https://github.com/Corvus06655/retail-customer-revenue-intelligence).
 
