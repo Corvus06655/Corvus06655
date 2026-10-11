@@ -2,71 +2,84 @@
 
 # Mayank Srivastava
 
-### Data & AI Analyst · SQL · Python · Power BI · Machine Learning
+### Data Science · Applied Machine Learning · Analytics Engineering
 
-**B.Tech Data Science undergraduate at AKTU · Expected 2027 · Greater Noida, India**
+B.Tech CSE (Data Science) · AKTU · Expected 2027 · Greater Noida, India
 
-[LinkedIn](https://www.linkedin.com/in/mayank-srivastava-076020215) · [Email](mailto:mayanksrivastava963@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mayank-srivastava-076020215) · [Email](mailto:mayanksrivastava963@gmail.com) · [GitHub Repositories](https://github.com/Corvus06655?tab=repositories)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I turn messy business data into **reliable analysis, decision-ready dashboards, and practical recommendations**. My work spans data cleaning and ETL, exploratory analysis, SQL analytics, Power BI modeling, KPI reporting, and applied machine learning.
+I build data projects that connect **clean data, useful analysis, predictive models, and clear business decisions**. My work includes SQL analytics, Python data workflows, Power BI dashboards, feature engineering, model evaluation, and applied machine learning.
 
-During my Data Analytics Internship at **Skillfied Mentor**, I cleaned and standardized **5,000+ records**, automated **8+ KPI dashboards and reports**, and helped reduce data errors by approximately **30%** while shortening reporting turnaround by approximately **40%**.
+During my Data Analytics Internship at **Skillfied Mentor**, I worked on data cleaning and reporting workflows. The internship work included standardizing 5,000+ records, automating 8+ KPI dashboards/reports, and reported improvements in data quality and reporting turnaround.
 
-I am open to **Data Analyst, Business Intelligence, and Junior Data/AI Analyst opportunities**.
+I'm interested in opportunities where I can apply Python, SQL, analytics, and machine learning to practical problems — including **AI/ML internships, data/ML engineering, and analytics/BI roles**.
 
-## What I work with
+## Tech stack
 
-| Area | Tools and capabilities |
+| Area | Tools |
 | --- | --- |
-| **Programming & analysis** | Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, EDA, data cleaning, ETL |
-| **Business intelligence** | Power BI, DAX, Power Query, Advanced Excel, data modeling, dashboard development, KPI analysis |
-| **Machine learning** | scikit-learn, regression, feature engineering, model evaluation, anomaly detection |
-| **Databases & workflow** | PostgreSQL, MySQL, Git, GitHub, Jupyter Notebook, VS Code |
-| **Generative AI** | AI-assisted coding, debugging, analysis, and validation of AI-generated outputs |
+| **Programming & data** | Python, SQL, Pandas, NumPy |
+| **Analytics & visualization** | Power BI, DAX, Power Query, Excel, Matplotlib, Seaborn, EDA |
+| **Machine learning** | scikit-learn, regression, classification, feature engineering, model evaluation |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **Workflow** | Git, GitHub, Jupyter Notebook, VS Code |
 
 ## Featured projects
 
-### Analytics and BI
+These are selected projects that demonstrate different parts of my workflow. Each repository includes its own scope, methodology, and limitations.
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [Bank Marketing Campaign Analytics](https://github.com/Corvus06655/bank-marketing-campaign-analytics) | Customer segmentation, campaign-response analysis, contact-channel performance, and targeting recommendations from 41,188 records. | Python · PostgreSQL · SQL · Jupyter |
-| [Digital Payment Reliability Analytics](https://github.com/Corvus06655/digital-payment-reliability-analytics) | Transaction health, service mix, user activity, growth KPIs, and payment-performance monitoring across 300,000 transactions. | Power BI · DAX · Power Query |
-| [Hotel Revenue & Operations Intelligence](https://github.com/Corvus06655/hotel-revenue-operations-intelligence) | Revenue, bookings, occupancy, RevPAR, ADR, cancellations, no-shows, and guest-rating analysis across properties. | Power BI · DAX · Power Query |
+### 1. Predictive modeling and ML
 
-### Predictive analytics
+| Project | What it demonstrates |
+| --- | --- |
+| [Inventory Demand Forecasting](https://github.com/Corvus06655/inventory-demand-forecasting) | Baseline vs. ML model comparison, demand forecasting, evaluation metrics, and a preliminary reorder estimate. |
+| [Inventory & Vendor Intelligence](https://github.com/Corvus06655/inventory-ml-engineering) | Freight-cost prediction, SQL-based invoice exception rules, and a Streamlit interface. |
+| [Telecom Customer Retention & Churn Analytics](https://github.com/Corvus06655/telecom-customer-churn-ml-analytics) | Churn segmentation and classification-model evaluation using customer-level data. |
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [Inventory & Vendor Intelligence](https://github.com/Corvus06655/inventory-ml-engineering) | Freight-cost drivers, purchase and invoice patterns, predictive modeling, and exception screening for vendor operations. | Python · SQL · Pandas · scikit-learn |
-| [Telecom Customer Retention & Churn Analytics](https://github.com/Corvus06655/telecom-customer-churn-ml-analytics) | Exploratory churn segmentation plus Logistic Regression, Decision Tree, Random Forest, and KNN classification, evaluated with accuracy, precision, recall, and F1. | Python · Pandas · scikit-learn · Jupyter |
+### 2. Business intelligence and decision support
 
-More portfolio work: [retail](https://github.com/Corvus06655/retail-sales-branch-performance), [telecom churn](https://github.com/Corvus06655/telecom-customer-churn-ml-analytics), [music-store SQL](https://github.com/Corvus06655/music-store-revenue-customer-intelligence), and [customer revenue intelligence](https://github.com/Corvus06655/retail-customer-revenue-intelligence).
+| Project | What it demonstrates |
+| --- | --- |
+| [Digital Payment Reliability Analytics](https://github.com/Corvus06655/digital-payment-reliability-analytics) | Power BI dashboard for transaction volume, payment outcomes, service mix, and KPI trends. |
+| [Hotel Revenue & Operations Intelligence](https://github.com/Corvus06655/hotel-revenue-operations-intelligence) | Revenue, occupancy, ADR, cancellations, and property-level operational analysis. |
+| [Olist E-Commerce Analytics](https://github.com/Corvus06655/Olist-Ecommerce-Analytics) | Multi-page Power BI analysis of marketplace sales, sellers, delivery, and customer experience. |
 
-## Certifications and education
+### 3. SQL and customer/revenue analytics
 
-- **B.Tech in Data Science**, A.P.J. Abdul Kalam Technical University — expected June 2027 · CGPA 7.61
+| Project | What it demonstrates |
+| --- | --- |
+| [Music Store Revenue & Customer Intelligence](https://github.com/Corvus06655/music-store-revenue-customer-intelligence) | Relational SQL analysis across customers, invoices, tracks, genres, and revenue. |
+| [Bank Marketing Campaign Analytics](https://github.com/Corvus06655/bank-marketing-campaign-analytics) | Campaign analysis with Python and PostgreSQL, focused on subscription patterns and business questions. |
+| [Retail Sales & Branch Performance](https://github.com/Corvus06655/retail-sales-branch-performance) | Data validation, SQL analysis, branch performance, category mix, and transaction trends. |
+
+**Browse all projects:** [github.com/Corvus06655](https://github.com/Corvus06655?tab=repositories)
+
+## Education & certifications
+
+- **B.Tech in Data Science** — Dr. A.P.J. Abdul Kalam Technical University (AKTU), expected 2027
+- **SQL Basic, Intermediate & Advanced** — HackerRank
 - **Machine Learning Using Python, Power BI, Data Analytics** — Simplilearn SkillUp
-- **SQL (Advanced, Intermediate & Basic)** — HackerRank
-- **24-Hour Coding Club, KCC Institute** — Voyager Coding Club
+- **24-Hour Coding Club** — Voyager Coding Club, KCC Institute
 
-## How I approach analytics
+## How I work
 
-1. Start with the business question and define the decision the analysis should support.
-2. Clean, validate, and document the data before interpreting patterns.
-3. Select the right analytical method, with attention to leakage, assumptions, and reproducibility.
-4. Communicate findings through focused KPIs, clear visuals, and actionable recommendations.
+1. Define the business or engineering question before choosing a tool.
+2. Validate data and document assumptions before interpreting results.
+3. Compare methods using appropriate metrics and validation.
+4. Communicate findings clearly, including limitations and next steps.
 
 ---
 
 <div align="center">
 
-**Let's connect** · [LinkedIn](https://www.linkedin.com/in/mayank-srivastava-076020215) · [mayanksrivastava963@gmail.com](mailto:mayanksrivastava963@gmail.com)
+**Let's connect**
+
+[LinkedIn](https://www.linkedin.com/in/mayank-srivastava-076020215) · [Email](mailto:mayanksrivastava963@gmail.com)
 
 </div>
