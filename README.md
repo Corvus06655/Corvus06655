@@ -16,7 +16,7 @@ B.Tech CSE (Data Science) · AKTU · Expected 2027 · Greater Noida, India
 
 I build data projects that connect **clean data, useful analysis, predictive models, and clear business decisions**. My work includes SQL analytics, Python data workflows, Power BI dashboards, feature engineering, model evaluation, and applied machine learning.
 
-During my Data Analytics Internship at **Skillfied Mentor**, I worked on data cleaning and reporting workflows. The internship work included standardizing 5,000+ records, automating 8+ KPI dashboards/reports, and reported improvements in data quality and reporting turnaround.
+During my Data Analytics Internship at **Skillfied Mentor**, I worked on data cleaning and reporting workflows, including standardizing 5,000+ records and automating 8+ KPI dashboards/reports. The internship work also reported improvements in data quality and reporting turnaround.
 
 I'm interested in opportunities where I can apply Python, SQL, analytics, and machine learning to practical problems — including **AI/ML internships, data/ML engineering, and analytics/BI roles**.
 
